@@ -43,7 +43,7 @@ const Login = () => {
               />
               <label className="label">
                 <Link to="/register" className="label-text-alt link link-hover">
-                  New to Auth Wizard?
+                  New to Auth Wizard? Please register
                 </Link>
               </label>
             </div>
